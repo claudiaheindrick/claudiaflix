@@ -1,0 +1,221 @@
+{
+  "categorias": [
+    {
+      "titulo": "PragerU",
+      "link": "https://www.prageru.com/",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "5-Minute Videos",
+        "url": "https://www.youtube.com/playlist?list=PLIBtb_NuIJ1xB02gFJaNB-c_Sj6donCl8"
+      },
+      "videos": [
+        {
+          "titulo": "Disciplina = Liberdade",
+          "url": "https://www.youtube.com/watch?v=eBmVv2P-v2s&list=PLIBtb_NuIJ1xB02gFJaNB-c_Sj6donCl8&index=63&t=0s"
+        },
+        {
+          "titulo": "Dia D",
+          "url": "https://www.youtube.com/watch?v=pHsAmOR5m00&list=PLIBtb_NuIJ1xB02gFJaNB-c_Sj6donCl8&index=61"
+        },
+        {
+          "titulo": "A Dinamarca é Socialista?",
+          "url": "https://www.youtube.com/watch?v=tzEPKrHalaY&list=PLIBtb_NuIJ1xB02gFJaNB-c_Sj6donCl8&index=66"
+        },
+        {
+          "titulo": "A Esquerda Destrói Tudo",
+          "url": "https://www.youtube.com/watch?v=JXbR3oADwaM&list=PLIBtb_NuIJ1xB02gFJaNB-c_Sj6donCl8&index=70"
+        },
+        {
+          "titulo": "Capitalismo vs Socialismo",
+          "url": "https://www.youtube.com/watch?v=Fdfru9NHGvE&list=PLIBtb_NuIJ1xB02gFJaNB-c_Sj6donCl8&index=73"
+        },
+        {
+          "titulo": "What Made George Washington Great?",
+          "url": "https://www.youtube.com/watch?v=D7FFtMlm4V0&list=PLIBtb_NuIJ1xB02gFJaNB-c_Sj6donCl8&index=75"
+        },
+        {
+          "titulo": "A Questão Mais Importante Sobre o Aborto",
+          "url": "https://www.youtube.com/watch?v=AMwkQVpy98A&list=PLIBtb_NuIJ1xB02gFJaNB-c_Sj6donCl8&index=273"
+        },
+        {
+          "titulo": "Liberdade de Expressão lhe Ofende?",
+          "url": "https://www.youtube.com/watch?v=9vVohGWhMWs&list=PLIBtb_NuIJ1xB02gFJaNB-c_Sj6donCl8&index=271"
+        }
+      ]
+    },
+    {
+      "titulo": "The Book Club",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/playlist?list=PLIBtb_NuIJ1xGfFsghMoiAL3LhZmrMB2o"
+      },
+      "videos": [
+        {
+          "titulo": "The Book Club: 1984 by George Orwell with Dave Rubin",
+          "url": "https://www.youtube.com/watch?v=SbTQJGxk95o&list=PLIBtb_NuIJ1xGfFsghMoiAL3LhZmrMB2o&index=2&t=0s"
+        },
+        {
+          "titulo": "The Book Club: Pride and Prejudice by Jane Austen with Abigail Shrier",
+          "url": "https://www.youtube.com/watch?v=JlYm93QiVNY&list=PLIBtb_NuIJ1xGfFsghMoiAL3LhZmrMB2o&index=6&t=0s"
+        },
+        {
+          "titulo": "The Book Club: Hamlet by William Shakespeare with Andrew Klavan",
+          "url": "https://www.youtube.com/watch?v=xx7C5CtMycA&list=PLIBtb_NuIJ1xGfFsghMoiAL3LhZmrMB2o&index=7&t=0s"
+        },
+        {
+          "titulo": "The Book Club: Man’s Search for Meaning by Viktor Frankl with Dennis Prager",
+          "url": "https://www.youtube.com/watch?v=LaVT5ZQvIps&list=PLIBtb_NuIJ1xGfFsghMoiAL3LhZmrMB2o&index=8&t=0s"
+        },
+        {
+          "titulo": "The Book Club: The Federalist Papers by Alexander Hamilton and James Madison with Ben Shapiro",
+          "url": "https://www.youtube.com/watch?v=MckbD2_vkb4&list=PLIBtb_NuIJ1xGfFsghMoiAL3LhZmrMB2o&index=4&t=0s"
+        }
+      ]
+    },
+    {
+      "titulo": "Economics",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/playlist?list=PLIBtb_NuIJ1w_5qAEs5cSUJ5Bk0R8QLaY"
+      },
+      "videos": [
+        {
+          "titulo": "Minimum Wage Cost Me My Job",
+          "url": "https://www.youtube.com/watch?v=eir2MlMpiWA&list=PLIBtb_NuIJ1w_5qAEs5cSUJ5Bk0R8QLaY&index=2&t=0s"
+        },
+        {
+          "titulo": "O Mercado Vos Libertará",
+          "url": "https://www.youtube.com/watch?v=FDwCuz4WUi4&list=PLIBtb_NuIJ1w_5qAEs5cSUJ5Bk0R8QLaY&index=3&t=0s"
+        },
+        {
+          "titulo": "Dívida Nacional: Quem se importa?",
+          "url": "https://www.youtube.com/watch?v=tBb6Dh234TE&list=PLIBtb_NuIJ1w_5qAEs5cSUJ5Bk0R8QLaY&index=8&t=0s"
+        },
+        {
+          "titulo": "O que há de errado com o sistema público de saúde?",
+          "url": "https://www.youtube.com/watch?v=ZEzO2KoJq2A&list=PLIBtb_NuIJ1w_5qAEs5cSUJ5Bk0R8QLaY&index=11&t=0s"
+        },
+        {
+          "titulo": "Sindicatos Públicos = Inimigos Públicos",
+          "url": "https://www.youtube.com/watch?v=DaeI6b3I8ZI&list=PLIBtb_NuIJ1w_5qAEs5cSUJ5Bk0R8QLaY&index=12&t=0s"
+        },
+        {
+          "titulo": "Enquanto os Ricos Ficam Mais Ricos, os pobres TAMBÉM Enriquecem",
+          "url": "https://www.youtube.com/watch?v=J_Bzw8W1rS8&list=PLIBtb_NuIJ1w_5qAEs5cSUJ5Bk0R8QLaY&index=13&t=0s"
+        }
+      ]
+    },
+    {
+      "titulo": "Foreign Affairs",
+      "cor": "orange",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/playlist?list=PLIBtb_NuIJ1wK13RCWLFaVbzRyrER8wEQ"
+      },
+      "videos": [
+        {
+          "titulo": "O que é o Hezbollah?",
+          "url": "https://www.youtube.com/watch?v=8DX-hjPYwjs&list=PLIBtb_NuIJ1wK13RCWLFaVbzRyrER8wEQ&index=7&t=0s"
+        },
+        {
+          "titulo": "Lies About Israel Lead to Lies About Everything",
+          "url": "https://www.youtube.com/watch?v=V1ohFIJfZ4E&list=PLIBtb_NuIJ1wK13RCWLFaVbzRyrER8wEQ&index=3&t=0s"
+        },
+        {
+          "titulo": "Por Que a América Deve Liderar",
+          "url": "https://www.youtube.com/watch?v=MSvWH-Y8eeY&list=PLIBtb_NuIJ1wK13RCWLFaVbzRyrER8wEQ&index=12&t=0s"
+        },
+        {
+          "titulo": "Did Bush Lie About Iraq?",
+          "url": "https://www.youtube.com/watch?v=LgQw8EhPJWw&list=PLIBtb_NuIJ1wK13RCWLFaVbzRyrER8wEQ&index=17&t=0s"
+        },
+        {
+          "titulo": "Paquistão: Podem a Liberdade e o Extremismo Coexistirem?",
+          "url": "https://www.youtube.com/watch?v=nPG4H3XUX1Q&list=PLIBtb_NuIJ1wK13RCWLFaVbzRyrER8wEQ&index=25&t=0s"
+        },
+        {
+          "titulo": "O Problema do Oriente Médio",
+          "url": "https://www.youtube.com/watch?v=8EDW88CBo-8&list=PLIBtb_NuIJ1wK13RCWLFaVbzRyrER8wEQ&index=32&t=0s"
+        }
+      ]
+    },
+    {
+      "titulo": "Religion/Philosophy",
+      "cor": "red",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/playlist?list=PLIBtb_NuIJ1w9rrlXRueM3opfoV0rUenS"
+      },
+      "videos": [
+        {
+          "titulo": "Social Justice Isn't Justice",
+          "url": "https://www.youtube.com/watch?v=yBX-9eUtwzU&list=PLIBtb_NuIJ1w9rrlXRueM3opfoV0rUenS&index=2&t=0s"
+        },
+        {
+          "titulo": "Jesus era Socialista?",
+          "url": "https://www.youtube.com/watch?v=i9EXnVitkmo&list=PLIBtb_NuIJ1w9rrlXRueM3opfoV0rUenS&index=5&t=0s"
+        },
+        {
+          "titulo": "Os Seres Humanos São Mais Valiosos do que os Animais?",
+          "url": "https://www.youtube.com/watch?v=7JATJv8HlV8&list=PLIBtb_NuIJ1w9rrlXRueM3opfoV0rUenS&index=12&t=0s"
+        },
+        {
+          "titulo": "De Onde vêm o Bem e o Mal?",
+          "url": "https://www.youtube.com/watch?v=xliyujhwhNM&list=PLIBtb_NuIJ1w9rrlXRueM3opfoV0rUenS&index=14&t=0s"
+        },
+        {
+          "titulo": "Nós temos Livre Arbítrio?",
+          "url": "https://www.youtube.com/watch?v=bDkLUBdvOkw&list=PLIBtb_NuIJ1w9rrlXRueM3opfoV0rUenS&index=15&t=0s"
+        },
+        {
+          "titulo": "Deus e o Sofrimento",
+          "url": "https://www.youtube.com/watch?v=cNtz5wgnopQ&list=PLIBtb_NuIJ1w9rrlXRueM3opfoV0rUenS&index=28&t=0s"
+        }
+      ]
+    },
+    {
+      "titulo": "History",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/playlist?list=PLIBtb_NuIJ1xS4y2x3jS2dpnpuLwokgtS"
+      },
+      "videos": [
+        {
+          "titulo": "O que foi Revolucionário sobre a Revolução Americana?",
+          "url": "https://www.youtube.com/watch?v=oWpGe47SWNU&list=PLIBtb_NuIJ1xS4y2x3jS2dpnpuLwokgtS&index=5&t=0s"
+        },
+        {
+          "titulo": "Why the West Won",
+          "url": "https://www.youtube.com/watch?v=rkTgBz9RYls&list=PLIBtb_NuIJ1xS4y2x3jS2dpnpuLwokgtS&index=6&t=0s"
+        },
+        {
+          "titulo": "Margaret Thatcher: A mulher que salvou a Grã-Bretanha",
+          "url": "https://www.youtube.com/watch?v=XeBHDSsogf8&list=PLIBtb_NuIJ1xS4y2x3jS2dpnpuLwokgtS&index=8&t=0s"
+        },
+        {
+          "titulo": "Reconstruction: The Good, the Bad and the Ugly",
+          "url": "https://www.youtube.com/watch?v=icOFEc5uVts&list=PLIBtb_NuIJ1xS4y2x3jS2dpnpuLwokgtS&index=14&t=0s"
+        },
+        {
+          "titulo": "Lincoln e o Dia de Ação de Graças: a origem de um feriado americano",
+          "url": "https://www.youtube.com/watch?v=N1m5gUSRyTc&list=PLIBtb_NuIJ1xS4y2x3jS2dpnpuLwokgtS&index=22&t=0s"
+        },
+        {
+          "titulo": "Walt Disney: Um Visionário Americano",
+          "url": "https://www.youtube.com/watch?v=0B_6FGBmb2c&list=PLIBtb_NuIJ1xS4y2x3jS2dpnpuLwokgtS&index=31&t=0s"
+        },
+        {
+          "titulo": "Churchill: O Homem que Salvou o Mundo Livre",
+          "url": "https://www.youtube.com/watch?v=djW36C3t_dQ&list=PLIBtb_NuIJ1xS4y2x3jS2dpnpuLwokgtS&index=32&t=0s"
+        },
+        {
+          "titulo": "Se Vivemos em Liberdade, Agradeçam ao Império Britânico",
+          "url": "https://www.youtube.com/watch?v=sSnJSUU_7q0&list=PLIBtb_NuIJ1xS4y2x3jS2dpnpuLwokgtS&index=37&t=0s"
+        }
+      ]
+    }
+  ]
+}
